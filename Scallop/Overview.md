@@ -4,6 +4,7 @@
 * It works for Major Scala distributions like 2.10, 2.11, 2.12 versions.
 
 ### Scallop Fatures:
+
   * flagging, single value, multi value options
   * POSIX style short option names like -a with grouping -abc
   * GNU style long option names like --database i.e., --database=Sales
@@ -15,3 +16,9 @@
   * Subcommands
   
   ### Option Types and Definitions
+  
+  * Scallop supports three types of options:
+  
+    * standard options (-a)
+    * property options (-Dk=v)
+    * trailing arguments
