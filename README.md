@@ -1,5 +1,5 @@
 # ScalaUtils
-This contains documenation for Scala utilities like Scallop, Typesafe Config, ScalaCheck etc...
+This contains documenation for Scala utilities like Scallop, Typesafe Config, HOCON, ScalaCheck etc...
 
 The repository organised as follows:
 
